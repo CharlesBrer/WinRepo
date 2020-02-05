@@ -1,4 +1,4 @@
-## git使用简单总结：如何使用github远程仓库与本地连接
+### git使用简单总结：如何使用github远程仓库与本地连接
 ****
 # 1.注册github账号，安装GNU工具
 ****	
@@ -8,8 +8,7 @@
 ****	
 # 4.bash中输入
 		git config --global user.name "CharlesBrer"
-		git config --global user.email "3110942575@qq.com"
-****		配置好用户名和用户邮箱
+		git config --global user.email "3110942575@qq.com"配置好用户名和用户邮箱
 # 5.生成ssh-key
 		ssh-keygen -t rsa -C "3110942575@qq.com"
 ****	
